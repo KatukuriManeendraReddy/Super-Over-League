@@ -1,0 +1,15 @@
+.heading {
+  color: #f8fafc;
+  font-family: "Roboto";
+}
+.bg-container {
+  padding: 40px;
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 200px;
+}
